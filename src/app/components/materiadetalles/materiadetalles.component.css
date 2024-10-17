@@ -1,7 +1,7 @@
 .box2 {
     min-width: 200px;
     min-height: 100px;
-    background-color: rgb(206, 241, 191);
+    background-color: beige;
     border: 2px solid rgb(2, 2, 33);
     /* Ancho, estilo y color del borde */
     border-radius: 10px;
